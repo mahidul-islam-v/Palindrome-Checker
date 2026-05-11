@@ -1,6 +1,6 @@
-# Palindrome Checker
+# Paal In D' Rome
 
-A simple yet fun tool to check if a word is palindrome. Search your vocabulary and discover words that read the same forwards and backwards!
+Your paal from Rome!! A simple yet interesting tool to check if a word is palindrome. Search your vocabulary and discover words that read the same forwards and backwards!
 
 ---
 
@@ -28,9 +28,9 @@ A **palindrome** is a word that is spelled exactly the same forwards and backwar
 ## 🔍 How It Works
 
 1. Enter a word into the application
-2. The app queries a dictionary API to verify it's a valid English word
+2. Paal queries a dictionary API to verify it's a valid English word
 3. The input string is reversed and compared to the original
-4. Results display whether the word is a palindrome or not
+4. Displays result whether the word is a palindrome or not
 
 **Algorithm:**
 
@@ -42,7 +42,7 @@ A **palindrome** is a word that is spelled exactly the same forwards and backwar
 
 ## 🔗 View the Project
 
-[**Try the Palindrome Checker →**](https://mahidul-islam-v.github.io/Color-Changer/)
+[**Try the Palindrome Checker →**](https://mahidul-islam-v.github.io/Palindrome-Checker/)
 
 ---
 
@@ -50,7 +50,7 @@ A **palindrome** is a word that is spelled exactly the same forwards and backwar
 
 Test these words to get started:
 
-- `racecar` ✓ (palindrome)
+- `wow` ✓ (palindrome)
 - `hello` ✗ (not a palindrome)
 - `level` ✓ (palindrome)
 - `madam` ✓ (palindrome)
