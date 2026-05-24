@@ -1,6 +1,6 @@
 # Paal In D' Rome
 
-Your paal from Rome!! A simple yet interesting tool to check if a word is palindrome. Search your vocabulary and discover words that read the same forwards and backwards!
+Your Italian paal!! A simple yet interesting tool to check if a word is palindrome. Search your vocabulary and discover words that read the same forwards and backwards!
 
 ---
 
